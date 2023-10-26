@@ -15,9 +15,9 @@ setup(
     description         =   "The Multi-Tool Web Vulnerability Scanner.",
     long_description    =   README,
     long_description_content_type = "text/markdown",
-    url                 =   "https://github.com/skavngr/rapidscan",
+    url                 =   "https://github.com/arun1033/Vscan.git",
     author              =   "sh4nx0r",
-    py_modules          =   ['rapidscan',],
+    py_modules          =   ['vscan',],
     install_requires    =   [],
     python_requires=">=3.6",
 )
