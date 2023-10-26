@@ -50,7 +50,7 @@ _**RapidScan has been ported to Python3 i.e. v1.2**. The Python2.7 codebase is a
 - Tested with Parrot & Ubuntu Operating Systems.
 
 ## Usage 
- `python3 rapidscan.py example.com`
+ `python3 vscan.py example.com`
 
 https://user-images.githubusercontent.com/6489729/138737524-9c4dc567-ec78-40b4-9a7b-8ff52d5dc98b.mp4
 
@@ -61,7 +61,7 @@ Alternatively, your can install the `rapidscan` python module with `pip`. This w
 
 ```
 git clone https://github.com/arun1033/Vscan.git
-cd /opt/rapidscan
+cd vscan
 python3 -m pip install .
 ```
 
